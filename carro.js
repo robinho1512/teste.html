@@ -4,7 +4,6 @@ let valorCombustivel1 = 6.30;
 
 console.log("Carro: " + carro1);
 console.log("Resultado: " + (km1 + valorCombustivel1));
-console.log("---------------------------");
 
 let carro2 = "Zafira";
 let km2 = 89;
