@@ -13,4 +13,5 @@ if (media>=70){
 }else{
     result="repovado"
 }
-console.log("O aluno"+aluno"tem a media"+media+"e está:"+result);
+
+console.log(" O aluno " +aluno " tem a media " +media+ " e está:" +result);
