@@ -1,9 +1,15 @@
-carro1= Belina
-km=42
-valor combustibvel=6,30
-console.log(km+valor combustibvel)
+let carro1 = "Belina";
+let km1 = 42;
+let valorCombustivel1 = 6.30;
 
-carro2= zafira
-km= 89
-valorcombustivel=8,90
-console.log()           
+console.log("Carro: " + carro1);
+console.log("Resultado: " + (km1 + valorCombustivel1));
+console.log("---------------------------");
+
+let carro2 = "Zafira";
+let km2 = 89;
+let valorCombustivel2 = 8.90;
+
+console.log("Carro: " + carro2);
+console.log("Resultado: " + (km2 + valorCombustivel2));
+
